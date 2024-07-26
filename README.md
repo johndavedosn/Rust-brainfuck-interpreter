@@ -1,2 +1,2 @@
 # Rust-projects
-welp, my projects are rusting!
+An interpreter for the famous esolang, Brainfuck!
